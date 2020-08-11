@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leynier Gutiérrez González</h1>
+<h1 align="center">Hi 👋🏻, I'm Leynier Gutiérrez González</h1>
 
 <h3 align="center">I'm a student of Computer Science in Cuba</h3>
 
