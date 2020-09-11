@@ -4,6 +4,8 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leynier&count_private=true&show_icons=true" alt="leynier" /> </p>
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=leynier" alt="leynier" /> </p>
+
 <p align="center">
   <a href="https://dev.to/leynier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="leynier" height="20" width="20" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
