@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋🏻, I'm Leynier Gutiérrez González</h1>
-
 <p align="center"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=leynier" alt="leynier" /> </p>
+
+<h1 align="center">Hi 👋🏻, I'm Leynier Gutiérrez González</h1>
 
 <h3 align="center">I'm a student of Computer Science in Cuba</h3>
 
