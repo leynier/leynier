@@ -8,7 +8,7 @@
 
 <p align="center"><b>GitHub Trophies</b></p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=leynier&column=3" alt="leynier" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=leynier&column=4" alt="leynier" /> </p>
 
 <p align="center"><b>Skills Chart</b></p>
 
