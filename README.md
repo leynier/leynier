@@ -6,18 +6,6 @@
 
 <p align="center"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=leynier" alt="leynier" /> </p>
 
-<p align="center"><b>Work Experience</b></p>
-
-<p align="center"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=leynier" alt="leynier" /> </p>
-
-<p align="center"><b>Portfolio</b></p>
-
-<p align="center"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=leynier" alt="leynier" /> </p>
-
-<p align="center"><b>Education</b></p>
-
-<p align="center"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=leynier" alt="leynier" /> </p>
-
 <p align="center"><b>GitHub Stats</b></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leynier&count_private=true&show_icons=true&hide_border=true" alt="leynier" /> </p>
