@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋🏻, I'm Leynier Gutiérrez González 👨🏻‍💻</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Leynier Gutiérrez González 👨🏻‍💻</h1>
 
-<h3 align="center">I'm a student of Computer Science in Cuba</h3>
+<h3 align="center">I'm a student of Computer Science in Cuba <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="12" /></h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leynier&label=Views&color=lightgrey&style=flat-square" alt="leynier" /> </p>
+<p align="center">
+  <a href="https://leynier.github.io"><img src="https://komarev.com/ghpvc/?username=leynier&label=Views&color=lightgrey&style=flat-square"/></a>
+  <a href="https://twitter.com/leynier41"><img src="https://img.shields.io/twitter/follow/leynier41?style=social"/></a>
+  <a href="https://github.com/leynier"><img src="https://img.shields.io/github/followers/leynier?label=follow&style=social"/></a>
+  <a href="https://linkedin.com/in/leynier"><img src="https://img.shields.io/badge/leynier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/leynier"/></a>
+</p>
 
 <p align="center"><b>GitHub Stats</b></p>
 
