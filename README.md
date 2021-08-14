@@ -14,10 +14,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leynier&count_private=true&show_icons=true&hide_border=true" alt="leynier" /> </p>
 
-<p align="center"><b>GitHub Streak - Racha</b></p>
-
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leynier&hide_border=true" alt="leynier" /> </p>
-
 <p align="center"><b>GitHub Trophies - Trofeos</b></p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=leynier&column=4&hide_border=true" alt="leynier" /> </p>
