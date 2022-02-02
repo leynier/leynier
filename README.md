@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leynier.github.io" target="blank">
+  <a href="https://leynier.dev" target="blank">
     <strong>
       Visit my website to know more about me <br> Visite mi sitio web para saber más sobre mí
     </strong>
