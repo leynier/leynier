@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> my name is Leynier Gutiérrez González 👨🏻‍💻 and I'm from <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="27" />
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="27"> my name is Leynier Gutiérrez González 👨🏻‍💻 and I'm from <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="27" />
 </h1>
 
 <h4 align="center">
@@ -7,7 +7,7 @@
 </h4>
 
 <h3 align="center">
-  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"> me llamo Leynier Gutiérrez González 👨🏻‍💻 y soy de <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="13" />
+  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="13"> me llamo Leynier Gutiérrez González 👨🏻‍💻 y soy de <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="13" />
 </h3>
 
 <h5 align="center">
