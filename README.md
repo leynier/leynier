@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  <p>I'm Bachelor of Computer Science, Head of Engineering at <a href="https://educup.io">@educup</a>, CTO/Co-founder of <a href="https://mesirve.app">mesirve.app</a> - <a href="https://github.com/lynotofficial">@lynotofficial</a>, Professor at <a href="https://github.com/matcom">@matcom</a> and <code>#opensource</code> enthusiast</p>
+  <p>I'm Bachelor of Computer Science, Head of Engineering at <a href="https://educup.io">@educup</a>, CTO/Co-founder of <a href="https://mesirve.app">mesirve.app</a> - <a href="https://github.com/lynot">@lynot</a>, Professor at <a href="https://github.com/matcom">@matcom</a> and <code>#opensource</code> enthusiast</p>
 </h4>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
 </h3>
 
 <h5 align="center">
-  <p>Soy Licenciado en Ciencia de la Computación, Jefe de Ingeniería en <a href="https://educup.io">@educup</a>, CTO/Cofundador de <a href="https://mesirve.app">mesirve.app</a> - <a href="https://github.com/lynotofficial">@lynotofficial</a>, Profesor en <a href="https://github.com/matcom">@matcom</a> y entusiasta del <code>#opensource</code></p>
+  <p>Soy Licenciado en Ciencia de la Computación, Jefe de Ingeniería en <a href="https://educup.io">@educup</a>, CTO/Cofundador de <a href="https://mesirve.app">mesirve.app</a> - <a href="https://github.com/lynot">@lynot</a>, Profesor en <a href="https://github.com/matcom">@matcom</a> y entusiasta del <code>#opensource</code></p>
 </h5>
 
 <p align="center">
