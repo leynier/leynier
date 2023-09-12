@@ -92,12 +92,12 @@
 
 <p align="center">
   <a href="http://www.github.com/leynier">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leynier&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=leynier&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="http://www.github.com/leynier">
-    <img src="https://activity-graph.herokuapp.com/graph?username=leynier&bg_color=181824&color=ffffff&line=ffffff&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=leynier&bg_color=181824&color=ffffff&line=ffffff&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
   </a>
 </p>
