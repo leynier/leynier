@@ -2,10 +2,6 @@
   Hi 👋 my name is Leynier Gutiérrez González 👨🏻‍💻
 </h1>
 
-<h1 align="center">
-  <codersrank-summary username="leynier"></codersrank-summary>
-</h1>
-
 <h4 align="center">
   <p>I'm a Computer Scientist, Head of Engineering at <a href="https://educup.io">@educup</a>, CTO/Co-founder of <a href="https://mesirve.app">mesirve.app</a> - <a href="https://github.com/lynot">@lynot</a>, Professor at <a href="https://github.com/matcom">@matcom</a> and <code>#opensource</code> enthusiast</p>
 </h4>
@@ -34,5 +30,3 @@
     </strong>
   </a>
 </p>
-
-<script src="https://unpkg.com/@codersrank/summary@0.9.13/codersrank-summary.min.js"></script>
