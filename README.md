@@ -2,17 +2,13 @@
   Hi 👋 my name is Leynier Gutiérrez González 👨🏻‍💻
 </h1>
 
+<h1 align="center">
+  <codersrank-summary username="leynier"></codersrank-summary>
+</h1>
+
 <h4 align="center">
   <p>I'm a Computer Scientist, Head of Engineering at <a href="https://educup.io">@educup</a>, CTO/Co-founder of <a href="https://mesirve.app">mesirve.app</a> - <a href="https://github.com/lynot">@lynot</a>, Professor at <a href="https://github.com/matcom">@matcom</a> and <code>#opensource</code> enthusiast</p>
 </h4>
-
-<h3 align="center">
-  Hola 👋 me llamo Leynier Gutiérrez González 👨🏻‍💻
-</h3>
-
-<h5 align="center">
-  <p>Soy Licenciado en Ciencia de la Computación, Jefe de Ingeniería en <a href="https://educup.io">@educup</a>, CTO/Cofundador de <a href="https://mesirve.app">mesirve.app</a> - <a href="https://github.com/lynot">@lynot</a>, Profesor en <a href="https://github.com/matcom">@matcom</a> y entusiasta del <code>#opensource</code></p>
-</h5>
 
 <p align="center">
   <a href="https://leynier.github.io"><img src="https://komarev.com/ghpvc/?username=leynier&label=Views&color=lightgrey&style=flat-square"/></a>
@@ -34,7 +30,9 @@
 <p align="center">
   <a href="https://leynier.dev" target="blank">
     <strong>
-      Visit my website to know more about me <br> Visite mi sitio web para saber más sobre mí
+      Visit my website to know more about me
     </strong>
   </a>
 </p>
+
+<script src="https://unpkg.com/@codersrank/summary@0.9.13/codersrank-summary.min.js"></script>
