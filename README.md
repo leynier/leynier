@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  <p>I'm a Computer Scientist, Head of Engineering at <a href="https://educup.io">@educup</a>, CTO/Co-founder of <a href="https://mesirve.app">mesirve.app</a> - <a href="https://github.com/lynot">@lynot</a>, Professor at <a href="https://github.com/matcom">@matcom</a> and <code>#opensource</code> enthusiast</p>
+  <p>I'm a Computer Scientist, Head of Engineering at <a href="https://educup.io">@educup</a>, Former CTO and Co-founder of <a href="https://mesirve.app">mesirve.app</a> - <a href="https://github.com/lynot">@lynot</a>, Former Professor at <a href="https://github.com/matcom">@matcom</a> and <code>#opensource</code> enthusiast</p>
 </h4>
 
 <p align="center">
