@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/leynier" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="20" width="20" /></a>
+<!--   <a href="https://linkedin.com/in/leynier" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="20" width="20" /></a> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/leynier41" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/000000/ffffff" alt="X" height="20" width="20" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
